@@ -1,0 +1,14 @@
+numpy
+pandas
+scikit-learn
+matplotlib
+seaborn
+scipy
+tqdm
+joblib
+jupyterlab
+notebook
+ipykernel
+tensorflow
+xgboost
+kagglehub[pandas-datasets]
